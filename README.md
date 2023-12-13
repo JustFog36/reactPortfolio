@@ -1,5 +1,3 @@
-# reactPortfolio
-My portfolio but built with react
 # React-Portfolio
 A single page application portfolio showcasing the latest technologies
 
